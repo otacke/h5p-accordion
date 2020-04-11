@@ -1,20 +1,11 @@
 {
   "semantics": [
     {
-      "label": "Panele",
-      "entity": "panel",
-      "field": {
-        "label": "Content",
-        "entity": "content",
-        "fields": [
-          {
-            "label": "Title"
-          },
-          {
-            "label": "Content type",
-            "entity": "content"
-          }
-        ]
+      "label":"Panele",
+      "entity":"panel",
+      "field":{
+        "label":"Content",
+        "entity":"content"
       }
     },
     {
