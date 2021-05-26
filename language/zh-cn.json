@@ -2,7 +2,7 @@
   "semantics": [
     {
       "label": "面板",
-      "entity": "panel",
+      "entity": "面板",
       "field": {
         "label": "内容",
         "entity": "content"
